@@ -592,6 +592,18 @@ body {
     animation: __scroll__ 1.2s 0s forwards;
 }
 
+.main__type_about-me {
+    text-align: center;
+    color:#fff;
+    padding-top:10em;
+}
+
+.typewrite {
+    text-decoration: none;
+    color: #fff;
+    cursor: text;
+}
+
 @media only screen and (min-width: 1400px) {
     .main-header {
         display: flex;
